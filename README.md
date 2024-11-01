@@ -1,4 +1,4 @@
-# Programas de Ejemplo
+# Programas del segundo parcial
 
 ## 1. Programa: Switch
 Este programa solicita al usuario una calificación entre 0 y 10 e interpreta el puntaje en letras utilizando un `switch` para asignar una calificación. Permite repetir el proceso según la elección del usuario.
